@@ -2,7 +2,7 @@
 
 **`Suporte Técnico`**, mas
 
-Futuro**`Desenvolvedor Front-End`**
+Futuro **`Desenvolvedor Front-End`**
 
 Me chamo Lucas, tenho 20 anos e sou de Cuiabá - MT. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIASSELVI. Gosto muito de tecnologia, faço cursos na Udemy para me aperfeiçoar cada vez mais.
 
