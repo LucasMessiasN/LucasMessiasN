@@ -1,6 +1,6 @@
 # 👨🏾‍💻 Lucas
 
-**`Suporte Técnico`**, mas
+**`Analista de Suporte`**, mas
 
 Futuro **`Desenvolvedor Full-Stack`**
 
