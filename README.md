@@ -1,10 +1,8 @@
 # 👨🏾‍💻 Lucas
 
-**`Analista de Suporte`**, mas
+**`Analista de Suporte e Implantação`**, e quem sabe talvez um **`DEV`** amanhã
 
-Futuro **`Desenvolvedor Full-Stack`**
-
-Me chamo Lucas, tenho 20 anos e sou de Cuiabá - MT. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIASSELVI. Gosto muito de tecnologia, faço cursos na Udemy para me aperfeiçoar cada vez mais.
+Me chamo Lucas, tenho 21 anos e sou de Cuiabá - MT. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIASSELVI. Gosto muito de tecnologia, faço cursos externos para me aperfeiçoar cada vez mais.
 
 <p align="left">
     </a> 
