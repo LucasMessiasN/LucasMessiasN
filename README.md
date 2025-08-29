@@ -66,15 +66,6 @@ Me chamo Lucas, tenho 21 anos e sou de Cuiabá - MT. Atualmente, estou cursando 
 ### 📊 Estatísticas
 
 <p>
-    
-<img 
-  align="left" 
-  alt="Tecnologias" 
-  height="200" 
-  style="padding-right: 10px;" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMessiasN&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-/>
-
 
 <img 
   align="left" 
