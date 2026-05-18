@@ -7,7 +7,7 @@ Me chamo Lucas, tenho 21 anos e sou de Cuiabá - MT. Atualmente, estou cursando 
 Possuo alguns projetos privados e alguns ja online. Dê uma olhada ai
 
 MenuFlow - Sistemas de Delivery e Restaurantes
-https://menuflow-saas.onrender.com/
+https://menuflow-saas.onrender.com/cadastro/
 
 <p align="left">
     <a href="https://github.com/LucasMessiasN">
