@@ -1,8 +1,8 @@
 # 👨🏾‍💻 Lucas
 
-**`Analista de Suporte e Implantação`**, e quem sabe talvez um **`DEV`** amanhã
+**`Analista de Sistemas`**
 
-Me chamo Lucas, tenho 21 anos e sou de Cuiabá - MT. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas. Gosto muito de tecnologia, faço cursos externos para me aperfeiçoar cada vez mais.
+Me chamo Lucas, tenho 21 anos e sou de Cuiabá - MT. Sou Analista de Sistemas e atualmente finalizando o ultimo semestre de Análise e Desenvolvimento de Sistemas. Gosto muito de tecnologia, faço cursos externos para me aperfeiçoar cada vez mais.
 
 Possuo alguns projetos privados e alguns ja online. Dê uma olhada ai
 
