@@ -2,11 +2,12 @@
 
 **`Analista de Sistemas`**
 
-Me chamo Lucas, tenho 21 anos e sou de Cuiabá - MT. Sou Analista de Sistemas e atualmente finalizando o ultimo semestre de Análise e Desenvolvimento de Sistemas. Gosto muito de tecnologia, faço cursos externos para me aperfeiçoar cada vez mais.
+Me chamo Lucas, tenho 21 anos e sou de Cuiabá - MT. Sou Analista de Requistos
+Formado em Análise e Desenvolvimento de Sistemas.
 
 Possuo alguns projetos privados e alguns ja online. Dê uma olhada ai
 
-MenuFlow - Sistemas de Delivery e Restaurantes
+MenuF - Sistemas de Delivery e Restaurantes
 https://menuflow-saas.onrender.com/cadastro/
 
 <p align="left">
