@@ -2,13 +2,11 @@
 
 **`Analista de Sistemas`**
 
-Me chamo Lucas, tenho 21 anos e sou de Cuiabá - MT. Sou Analista de Requistos
-Formado em Análise e Desenvolvimento de Sistemas.
+Me chamo Lucas, tenho 21 anos e sou de Cuiabá - MT.
+Analista de Requistos
+Formado em Análise e Desenvolvimento de Sistemas
 
-Possuo alguns projetos privados e alguns ja online. Dê uma olhada ai
-
-MenuF - Sistemas de Delivery e Restaurantes
-https://menuflow-saas.onrender.com/cadastro/
+Possuo alguns projetos privados e alguns ja online em Django para estudos
 
 <p align="left">
     <a href="https://github.com/LucasMessiasN">
