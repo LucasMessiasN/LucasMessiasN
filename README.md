@@ -6,7 +6,7 @@ Me chamo Lucas, tenho 21 anos e sou de Cuiabá - MT.
 Analista de Requistos
 Formado em Análise e Desenvolvimento de Sistemas
 
-Possuo alguns projetos privados e alguns ja online em Django para estudos
+Possuo alguns projetos em Django + PostgreSQL para estudos
 
 <p align="left">
     <a href="https://github.com/LucasMessiasN">
